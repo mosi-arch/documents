@@ -31,7 +31,7 @@ Example usecase:
 - Anonymous transaction
 - Messaging | Share data
 - Protecting the storage or Sensitive data
-- Profitablke search time from O(n) to O(1)
+- Profitable search time from "T=O(n)" to "T=O(1)=1"
 
 Example Solidity : [zk-signature](https://github.com/mosi-arch/archive-sol/tree/main/Simulations/ZK-Signature)
 
