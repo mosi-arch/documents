@@ -26,6 +26,14 @@ The idea is that the prover selects a random value r, computes y = x + r, and se
 The verifier checks that `y` is in the `range [1, N + h_max]` and that the hash of `x and y - x equals h`, which proves that the prover knows `x` without revealing it.\
 There are many other types of ZKP algorithms with different properties and use cases, but they all rely on similar principles. [1]
 
+Example usecase:
+- Authentication
+- Anonymous transaction
+- Messaging | Share data
+- Protecting the storage or Sensitive data
+
+Example Solidity : [zk-signature](https://github.com/mosi-arch/archive-sol/tree/main/Simulations/ZK-Signature)
+
 References:\
 [1] [Zero Knowledge Proof](https://www.geeksforgeeks.org/zero-knowledge-proof/)\
 [2] [Code Talks: The A-to-Z on zkSnarks and Zero-Knowledge …](https://medium.com/@ppio/zksnarks-zero-knowledge-proof-feb76bf49e1a)\
