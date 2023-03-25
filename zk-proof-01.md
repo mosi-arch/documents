@@ -1,5 +1,5 @@
 ### Zero Knowledge Proof (ZKP)
-Zero Knowledge Proof (ZKP) is an encryption scheme that allows for proving the authenticity of a statement without revealing any additional information beyond what is necessary for the proof. [ [ref-1] ](https://github.com/mosi-arch/documents/edit/main/zk-proof-01.md#references)\
+Zero Knowledge Proof (ZKP) is an encryption scheme that allows for proving the authenticity of a statement without revealing any additional information beyond what is necessary for the proof. [ [ref-1] ](https://github.com/mosi-arch/documents/blob/main/zk-proof-01.md#references)\
 Here's a simple example of a ZKP algorithm in pseudocode:
 
 ```js
@@ -25,7 +25,7 @@ assert hash(x, y - x) == h // check that (h, y) is a valid proof for x
 This is a simple example of a ZKP algorithm called a "discrete logarithm proof" that proves knowledge of a secret value x in a `range [1, N]` without revealing x.\
 The idea is that the prover selects a random value r, computes y = x + r, and sends the verifier the hash of x and r (h) and y.\
 The verifier checks that `y` is in the `range [1, N + h_max]` and that the hash of `x and y - x equals h`, which proves that the prover knows `x` without revealing it.\
-There are many other types of ZKP algorithms with different properties and use cases, but they all rely on similar principles. [ [ref-1] ](https://github.com/mosi-arch/documents/edit/main/zk-proof-01.md#references)
+There are many other types of ZKP algorithms with different properties and use cases, but they all rely on similar principles. [ [ref-1] ](https://github.com/mosi-arch/documents/blob/main/zk-proof-01.md#references)
 
 #### Example usecase:
 - Authentication
