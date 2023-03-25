@@ -40,3 +40,5 @@ There are many other types of ZKP algorithms with different properties and use c
 [1] [Zero Knowledge Proof](https://www.geeksforgeeks.org/zero-knowledge-proof/)\
 [2] [Code Talks: The A-to-Z on zkSnarks and Zero-Knowledge …](https://medium.com/@ppio/zksnarks-zero-knowledge-proof-feb76bf49e1a)\
 [3] [Example of A Good Zero Knowledge Proof](https://101blockchains.com/zero-knowledge-proof-example/)
+
+> No need you are be outside the box, break the old useless rules of coding, change mindset and make new era of coding.
