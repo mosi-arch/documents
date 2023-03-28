@@ -44,7 +44,15 @@ contract FOBContract {
     string public paymentTerms;
 
     // Define the constructor function
-    constructor(address _buyer, address _seller, address _carrier, uint256 _price, string memory _location, uint256 _deliveryDate, string memory _paymentTerms) public {
+    constructor(
+        address _buyer, 
+        address _seller, 
+        address _carrier, 
+        uint256 _price, 
+        string memory _location, 
+        uint256 _deliveryDate, 
+        string memory _paymentTerms
+    ) public {
         buyer = _buyer;
         seller = _seller;
         carrier = _carrier;
