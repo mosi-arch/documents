@@ -95,3 +95,20 @@ In this example, we have created a Solidity contract that uses the **"FOB"** inc
 
 #### tip
 The proof using for detecting the expert/damage is : Proof of Coverage (POC)
+
+#### refrences
+The seven Incoterms® 2020 rules for any mode(s) of transport are: 
+- EXW - Ex Works (insert place of delivery)
+- FCA  - Free Carrier (Insert named place of delivery) 
+- CPT  - Carriage Paid to (insert place of destination) 
+- CIP -  Carriage and Insurance Paid To (insert place of destination)  
+- DAP - Delivered at Place (insert named place of destination)  
+- DPU - Delivered at Place Unloaded (insert of place of destination)  
+- DDP - Delivered Duty Paid (Insert place of destination).  
+Note: the DPU Incoterms replaces the old DAT, with additional requirements for the seller to unload the goods from the arriving means of transport. 
+
+The four Incoterms® 2020 rules for Sea and Inland Waterway Transport are: 
+- FAS - Free Alongside Ship (insert name of port of loading) 
+- FOB - Free on Board (insert named port of loading) 
+- CFR - Cost and Freight (insert named port of destination) 
+- CIF -  Cost Insurance and Freight (insert named port of destination) 
