@@ -93,8 +93,10 @@ contract FOBContract {
 
 In this example, we have created a Solidity contract that uses the **"FOB"** incoterms rule. The contract includes the parties involved in the transaction, the terms of the contract, the price of the goods, the location of the goods, the delivery date, and the payment terms. The contract also includes functions for transferring ownership, making payments, confirming delivery, and resolving disputes. By using Solidity and blockchain technology, we can create a more efficient and secure supply chain system that benefits all parties involved in the transaction.
 
-#### tip
+#### tips
 The proof using for detecting the expert/damage is : Proof of Coverage (POC)
+
+#
 
 #### refrences
 The seven Incoterms® 2020 rules for any mode(s) of transport are: 
