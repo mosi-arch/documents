@@ -10,4 +10,4 @@ There is just one rule, (no rule...)
 
 - [zk-proof - 1](https://github.com/mosi-arch/documents/blob/main/zk-proof-01.md)
 - [zk-proof - 2](https://github.com/mosi-arch/documents/blob/main/zk-proof-02.md) 
-- [FOB - blockchain & supplychain](https://github.com/mosi-arch/documents/blob/main/blockchain-and-supplychain.md)
+- FOB - [blockchain & supplychain](https://github.com/mosi-arch/documents/blob/main/blockchain-and-supplychain.md)
