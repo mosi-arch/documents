@@ -44,5 +44,6 @@ Incoterm	Loading at origin	Export customs declaration	Carriage to port of export
 
 i solve the problem in/on/by solidity, coordination with solidity smart contract & incoterms rules. 
 actually i sell the full solution by some ***bitcoin*** , 
-and here we have just 4 contract example for sea trade rules... 
+and here we have just 4 contract example for "Sea and Inland Waterway Transport"... "this 4 items just for example and different by sold items"
+
 check the [FOB](https://github.com/mosi-arch/documents/blob/main/blockchain-and-supplychain.md) [FAS](https://github.com/mosi-arch/documents/blob/main/incoterms-FAS.md) [CFR](https://github.com/mosi-arch/documents/blob/main/incoterms-CFR.md) [CIF](https://github.com/mosi-arch/documents/blob/main/incoterms-CIF.md) .
