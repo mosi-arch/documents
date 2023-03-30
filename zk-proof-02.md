@@ -22,10 +22,8 @@ else:
   z = (r * x) % N 
 send(z) 
 
-// Step 5: Verifier checks 
-if y = z^2 mod N if c = 0 
-// , or 
-if y * x = z^2 mod N if c = 1 
+// Step 5: Verifier checks if y = z^2 mod N if c = 0 
+// , or if y * x = z^2 mod N if c = 1 
 
 if (c == 0): 
   if ((z * z) % N == y): 
