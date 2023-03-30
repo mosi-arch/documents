@@ -110,7 +110,8 @@ Incoterm	Loading at origin	Export customs declaration	Carriage to port of export
 | **Theoretical Assumptions**	| Utility Maximization	| Agent Neutrality	| Autarky	| Nodes Without Agreement	| Nodes Without Agreement	| Enterprises Without Agreement |
 
 #### Table 3. Describing the role of class attributes.
-
+|||
+|---|---|
 | Class	| Description |
 | **ApiKey**	| Includes departure/arrival GPS coordinates, and LCL/FCL container designations, concatenated as string of integers. |
 | **LogisticsService**	| Interface for exchanging transport data (e.g. route and port information) between third party vendor and application. |
