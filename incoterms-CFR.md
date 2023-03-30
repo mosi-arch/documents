@@ -64,3 +64,7 @@ contract InternationalTradeContract {
 This contract is similar to the ones using "FOB" and "FAS" incoterms rules, but with a different conditional statement to calculate the total cost of the trade based on the "CFR" incoterms rule.
 
 For "CFR", the seller is responsible for delivering the goods to the port of shipment and loading them onto the shipping vessel. The seller is also responsible for paying the shipping costs and insurance costs up to the port of destination. The buyer is responsible for all other costs and risks. The `calculateTotalCost` function calculates the price of the goods, and adds the shipping costs and insurance costs paid by the seller using the `calculateShippingCosts` and `calculateInsuranceCosts` helper functions.
+
+---
+
+red more [here](https://github.com/mosi-arch/documents/blob/main/incoterms-issue.md) 
