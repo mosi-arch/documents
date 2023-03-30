@@ -114,3 +114,7 @@ The four Incoterms® 2020 rules for Sea and Inland Waterway Transport are:
 - FOB - Free on Board (insert named port of loading) 
 - CFR - Cost and Freight (insert named port of destination) 
 - CIF -  Cost Insurance and Freight (insert named port of destination) 
+
+---
+
+red more [here](https://github.com/mosi-arch/documents/blob/main/incoterms-issue.md) 
