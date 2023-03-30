@@ -79,3 +79,25 @@ contract InternationalTradeContract {
 ```
 
 info: look like other simple examples of/for incoterms in this folder...
+
+#
+
+issue time [ref](https://www.sciencedirect.com/science/article/pii/S2666659621000044) :
+
+#### Table 1. Cost allocation for incoterms (International Chamber of Commerce 2020)
+Incoterm	Loading at origin	Export customs declaration	Carriage to port of export	Unloading of truck in port of export	Loading on vessel/airplane in port of export	Carriage (sea/air) to port of import	Insurance	Unloading in port of import	Loading on truck in port of import	Carriage to place of destination	Import customs clearance	Import duties and taxes	Unloading at destination
+
+| Incoterm	| Loading at origin	| Export customs declaration	| Carriage to port of export	| Unloading of truck in port of export	| Loading on vessel/airplane in port of export	| Carriage (sea/air) to port of import	| Insurance	| Unloading in port of import	| Loading on truck in port of import	| Carriage to place of destination	| Import customs clearance	| Import duties and taxes	| Unloading at destination |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| EXW	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer |
+| FCA	| Seller	| Seller	| B/S	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer |
+| FAS	| Seller	| Seller	| Seller	| Seller	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer |
+| FOB	| Seller	| Seller	| Seller	| Seller	| Seller	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer |
+| CPT	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Buyer	| B/S	| B/S	| Seller	| Buyer	| Buyer	| Buyer |
+| CFR	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer |
+| CIF	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer	| Buyer |
+| CIP	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| B/S	| B/S	| Seller	| Buyer	| Buyer	| Buyer |
+| DPU	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Buyer	| Buyer	| Seller |
+| DAP	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Buyer	| Buyer	| Buyer |
+| DDP	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Seller	| Buyer |
+
