@@ -1,4 +1,4 @@
-## well, now the issue time [ref of full issue](https://www.sciencedirect.com/science/article/pii/S2666659621000044) :
+## well, now the issue time [[ref of full issue](https://www.sciencedirect.com/science/article/pii/S2666659621000044)] :
 
 #### Table 1. Cost allocation for incoterms (International Chamber of Commerce 2020)
 Incoterm	Loading at origin	Export customs declaration	Carriage to port of export	Unloading of truck in port of export	Loading on vessel/airplane in port of export	Carriage (sea/air) to port of import	Insurance	Unloading in port of import	Loading on truck in port of import	Carriage to place of destination	Import customs clearance	Import duties and taxes	Unloading at destination
