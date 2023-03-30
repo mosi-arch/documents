@@ -21,15 +21,20 @@ if (c == 0):
   if ((z * z) % N == y): 
     accept_proof() 
   else: reject_proof() 
-  else: if ((z * z * x) % N == y): 
-    accept_proof() 
-  else: reject_proof()
+  else: 
+    if ((z * z * x) % N == y): 
+      accept_proof() 
+else: reject_proof()
 ```
 
-In this example, the Prover wants to prove that they know the secret number x to the Verifier, without revealing x. The Prover selects a random number r and computes y = r^2 mod N, where N is a large prime. They send y to the Verifier.
+In this example, the Prover wants to prove that they know the secret number `x` to the Verifier, without revealing `x`. The Prover selects a random number `r` and computes `y = r^2` mod `N`, where `N` is a large prime. They send `y` to the Verifier.
 
-The Verifier then sends a random challenge c to the Prover. The Prover computes z = r if c = 0, or z = r * x if c = 1, and sends z to the Verifier.
+The Verifier then sends a random challenge `c` to the Prover. The Prover computes `z = r` if `c = 0`, or `z = r * x` if `c = 1`, and sends z to the Verifier.
 
-The Verifier checks if y = z^2 mod N if c = 0, or if y * x = z^2 mod N if c = 1. If the check passes, the Verifier accepts the proof; otherwise, they reject it. If the proof is accepted, the Verifier knows that the Prover knows the secret number x, but they do not know the value of x itself.
+The Verifier checks if `y = z^2` mod `N` if `c = 0`, or if `y * x = z^2` mod `N` if `c = 1`. If the check passes, the Verifier accepts the proof; otherwise, they reject it. If the proof is accepted, the Verifier knows that the Prover knows the secret number `x`, but they do not know the value of `x` itself.
 
 This is a simple example of a ZKP algorithm, and in practice, more complex algorithms are used for more sophisticated proofs.
+
+#
+
+Remember: many solution about the zk-proof has been made before 1990! so think out of the box and create new solution for any situation to make better world...
