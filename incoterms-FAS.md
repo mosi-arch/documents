@@ -35,7 +35,8 @@ contract InternationalTradeContract {
 		return totalCost; 
 	} 
 
-	// Helper function to calculate shipping costs function calculateShippingCosts(string memory portOfLoading, string memory portOfDestination) private pure returns (uint256) { 
+	// Helper function to calculate shipping costs 
+	function calculateShippingCosts(string memory portOfLoading, string memory portOfDestination) private pure returns (uint256) { 
 		// Calculate shipping costs based on the distance between the two ports 
 		uint256 distance = calculateDistanceBetweenPorts(portOfLoading, portOfDestination); 
 		uint256 shippingCosts = distance * 100; 
