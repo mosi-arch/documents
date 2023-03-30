@@ -9,7 +9,8 @@ r = random_number() y = (r * r) % N
 // Step 2: Prover sends y to Verifier 
 send(y) 
 // Step 3: Verifier sends a random challenge c to the Prover 
-c = random_number() send(c) 
+c = random_number() 
+send(c) 
 // Step 4: Prover computes z = r if c = 0, or z = r * x if c = 1, and sends z to Verifier 
 if (c == 0): z = r else: z = (r * x) % N send(z) 
 // Step 5: Verifier checks 
