@@ -37,4 +37,5 @@ This is a simple example of a ZKP algorithm, and in practice, more complex algor
 
 #
 
-Remember: many solution about the zk-proof has been made before 1990! so think out of the box and create new solution for any situation to make better world...
+#### Remember: 
+many solution about the zk-proof has been made before 1990! so think out of the box and create new solution for any situation to make better world...
