@@ -21,9 +21,9 @@ if (c == 0):
   if ((z * z) % N == y): 
     accept_proof() 
   else: reject_proof() 
-  else: 
-    if ((z * z * x) % N == y): 
-      accept_proof() 
+else: 
+  if ((z * z * x) % N == y): 
+    accept_proof() 
 else: reject_proof()
 ```
 
