@@ -65,3 +65,7 @@ This contract is similar to the one using "FOB" incoterms rule, but with a diffe
 For "FAS", the seller is responsible for delivering the goods to the port of shipment and loading them onto the shipping vessel, while the buyer is responsible for all other costs and risks. The `calculateTotalCost` function calculates the price of the goods, and adds the shipping costs and insurance costs paid by the buyer using the `calculateShippingCosts` and `calculateInsuranceCosts` helper functions.
 
 The `calculateShippingCosts` and `calculateInsuranceCosts` helper functions are the same as the ones used in the "FOB" example. The `calculateDistanceBetweenPorts` helper function is also the same, assuming a fixed distance of 1000 units between any two ports for simplicity.
+
+---
+
+red more [here](https://github.com/mosi-arch/documents/blob/main/incoterms-issue.md) 
