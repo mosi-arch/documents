@@ -104,7 +104,7 @@ Incoterm	Loading at origin	Export customs declaration	Carriage to port of export
 #### Table 2. Applying principles of fairness at varying levels of abstraction.
 |||||||
 |---|---|---|---|---|---|
-| Substantive Rules	Maximin Principle	| Difference Principle	| International Relative Gains	| Majoritarian Social Contract	| Pluralistic Social Contract	| International Commercial Contract |
-| Selection Procedures (Local)	| Maximin Constrained Optimization	| Individual Rational Choice	| National Gains from Trade	| Laissez Faire App Design	| Ethically Optimized App Design	| Incoterms (EXW, CIF, etc.) |
-| Selection Procedures (General)	| Maximin Pareto Efficiency	| Original Position	| Harm Principle	| Distributed Consensus	| Distributed Consensus	| UPICC (Favor Contractus) |
-| Theoretical Assumptions	| Utility Maximization	| Agent Neutrality	| Autarky	| Nodes Without Agreement	| Nodes Without Agreement	| Enterprises Without Agreement |
+| **Substantive Rules	Maximin Principle**	| Difference Principle	| International Relative Gains	| Majoritarian Social Contract	| Pluralistic Social Contract	| International Commercial Contract |
+| **Selection Procedures (Local)**	| Maximin Constrained Optimization	| Individual Rational Choice	| National Gains from Trade	| Laissez Faire App Design	| Ethically Optimized App Design	| Incoterms (EXW, CIF, etc.) |
+| **Selection Procedures (General)**	| Maximin Pareto Efficiency	| Original Position	| Harm Principle	| Distributed Consensus	| Distributed Consensus	| UPICC (Favor Contractus) |
+| **Theoretical Assumptions**	| Utility Maximization	| Agent Neutrality	| Autarky	| Nodes Without Agreement	| Nodes Without Agreement	| Enterprises Without Agreement |
