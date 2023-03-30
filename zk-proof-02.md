@@ -5,14 +5,23 @@ Here is an example of a simple ZKP algorithm in pseudo code:
 // Prover wants to prove they know the secret number x 
 // Verifier wants to verify that the Prover knows x without revealing x 
 // Step 1: Prover selects a random number r and computes y = r^2 mod N, where N is a large prime 
-r = random_number() y = (r * r) % N 
+r = random_number() 
+y = (r * r) % N 
+
 // Step 2: Prover sends y to Verifier 
 send(y) 
+
 // Step 3: Verifier sends a random challenge c to the Prover 
 c = random_number() 
 send(c) 
+
 // Step 4: Prover computes z = r if c = 0, or z = r * x if c = 1, and sends z to Verifier 
-if (c == 0): z = r else: z = (r * x) % N send(z) 
+if (c == 0): 
+  z = r 
+else: 
+  z = (r * x) % N 
+send(z) 
+
 // Step 5: Verifier checks 
 if y = z^2 mod N if c = 0 
 // , or 
