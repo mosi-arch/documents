@@ -24,7 +24,7 @@ if (c == 0):
 else: 
   if ((z * z * x) % N == y): 
     accept_proof() 
-else: reject_proof()
+  else: reject_proof()
 ```
 
 In this example, the Prover wants to prove that they know the secret number `x` to the Verifier, without revealing `x`. The Prover selects a random number `r` and computes `y = r^2` mod `N`, where `N` is a large prime. They send `y` to the Verifier.
