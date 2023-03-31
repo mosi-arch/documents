@@ -22,4 +22,4 @@ There is just one rule, (no rule...)
 - Security token - [here](https://github.com/mosi-arch/documents/blob/main/security-token.md) 
 
 ---
-For more information, following my linkedin posts & articles under the "activity section" at [LinkedIn](https://www.linkedin.com/in/moslem-abbasi/) 
+For more information, following my linkedin posts & articles under the "activity section" at my [LinkedIn](https://www.linkedin.com/in/moslem-abbasi/) 
