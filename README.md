@@ -1,6 +1,6 @@
 # documents
-Documents "about my research's" i made for social media, about blockchain &amp; web3.\
-Notice: codes for example and showcase purposes.
+Documents "about my research" i made for social media, about blockchain & web3.\
+Notice: codes in theses documents are just for example and showcase purposes.
 
 ---
 
