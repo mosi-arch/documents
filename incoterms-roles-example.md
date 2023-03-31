@@ -1,7 +1,7 @@
 ## Example solidity code about "insurance incoterms roles"
 Here is an example Solidity code for an insurance smart contract that involves incoterms roles:
 
-```
+```solidity
 pragma solidity ^0.8.0;
 
 contract Insurance {
@@ -43,7 +43,7 @@ This code defines an enum `IncotermsRole` that represents the different roles in
 
 ### Example solidity code about "insurance incoterms role = EXW"
 Here is an example of Solidity code related to an insurance contract with Incoterms role set to EXW:
-```
+```solidity
 pragma solidity ^0.8.0;
 
 contract InsuranceContract {
