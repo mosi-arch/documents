@@ -1,16 +1,16 @@
 ## Research about "different main proof's" in blockchain, by pesudo code
 
 In blockchain, there are different types of consensus algorithms or "proofs" that can be used to validate transactions and add them to the blockchain. Here is a basic pseudocode for three common types of proofs:
-- Proof of Work (PoW)
+- **Proof of Work (PoW)**
 - - Choose a random number (nonce)
 - - Combine the nonce with the transaction data and previous block hash
 - - Hash the resulting data
 - - Check if the hash meets a certain difficulty level (e.g. starts with a certain number of zeros)
 - - If the hash meets the difficulty level, add the block to the chain and broadcast to network. If not, repeat with a new nonce.
-- Proof of Stake (PoS)
+- **Proof of Stake (PoS)**
 - - Choose a validator based on the amount of cryptocurrency they hold (the more they hold, the more likely they are to be chosen)
 - - Validator adds the block to the chain and receives a reward
-- Delegated Proof of Stake (DPoS)
+- **Delegated Proof of Stake (DPoS)**
 - - Holders of the cryptocurrency vote for delegates to validate transactions and add blocks to the chain
 - - Delegates with the most votes are chosen to validate transactions
 - - Delegates receive a reward for adding blocks to the chain.
@@ -53,7 +53,7 @@ contract ProofOfExistence {
   }
 
   function calculateHash(string memory document) public pure returns (bytes32) {
-  return keccak256(bytes(document));
+    return keccak256(bytes(document));
   }
 }
 ```
