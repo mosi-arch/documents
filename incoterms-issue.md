@@ -47,7 +47,7 @@ I solved the problem in/on/by solidity, coordination with solidity smart contrac
 #
 
 #### Damage expert
-Tips: Proof of Coverage ...
+Tips: Proof of Coverage ... [example information](https://github.com/mosi-arch/documents/blob/main/proof-of-coverage.md) 
 
 #
 
