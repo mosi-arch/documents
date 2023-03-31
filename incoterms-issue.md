@@ -44,6 +44,8 @@ Incoterm	Loading at origin	Export customs declaration	Carriage to port of export
 
 I solved the problem in/on/by solidity, coordination with solidity smart contract & incoterms rules. actually i sold the full solution by some bitcoin , and here we have just 4 contract example for "Sea and Inland Waterway Transport"... "this 4 items just for example and different by sold items"
 
+#
+
 #### Damage expert
 Tips: Proof of Coverage ...
 
