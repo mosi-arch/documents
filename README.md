@@ -16,4 +16,5 @@ There is just one rule, (no rule...)
 - CIF - 
 - Incoterms issue, soldout by bitcoin - [read more...](https://github.com/mosi-arch/documents/blob/main/incoterms-issue.md) 
 - Proof of Exist
-- 
+- Proof of Coverage
+
