@@ -47,4 +47,6 @@ I solved the problem in/on/by solidity, coordination with solidity smart contrac
 #### Damage expert
 Tips: Proof of Coverage ...
 
+#
+
 check the: [FOB](https://github.com/mosi-arch/documents/blob/main/blockchain-and-supplychain.md) - [FAS](https://github.com/mosi-arch/documents/blob/main/incoterms-FAS.md) - [CFR](https://github.com/mosi-arch/documents/blob/main/incoterms-CFR.md) - [CIF](https://github.com/mosi-arch/documents/blob/main/incoterms-CIF.md) .
