@@ -1,5 +1,5 @@
 # documents
-Documents i made for social media, about blockchain &amp; web3.\
+Documents "about my research's" i made for social media, about blockchain &amp; web3.\
 Notice: codes for example and showcase purposes.
 
 ---
