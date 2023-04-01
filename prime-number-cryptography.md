@@ -58,6 +58,7 @@ for more informatio, using this in "diffie hellman". in messaging purposes on no
 ---
 
 ## zk-proof of statement?
+problem: how to accept "n"
 ```
 ____________________________________________________
 n = random prime number, accept by two sides
@@ -65,3 +66,4 @@ alice = a	->	proof = g*(a|b) % n
 bob = b		->	proof = g*(a|b) % n
 ____________________________________________________
 ```
+answer: using "ratchet" solution but in/on hashed conversation
