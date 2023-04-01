@@ -66,7 +66,8 @@ add_action('wp_footer', 'Moßi_web3_connect_logic');
 //Integrate the chosen NFT solution by installing and configuring its plugin or API.
 
 //5-3. Design and develop marketplace UI
-//Design custom templates using HTML and CSS, and set up functions to handle buying, selling, and viewing NFTs. This would require more specific instructions on what features the marketplace needs to have.
+//Design custom templates using HTML and CSS, and set up functions to handle buying, selling, and viewing NFTs. 
+//This would require more specific instructions on what features the marketplace needs to have.
 ```
 In this example web3 connection created, you need to read section "5" .\
 Notice: don't use rpc was/has made by infura, cuz they are have censoreship for users...
