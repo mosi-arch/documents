@@ -1,3 +1,5 @@
+## method 1 = clock
+
 imagin a clock:\
 ? a clock 12 nums
 ```
@@ -12,9 +14,9 @@ decryption: x = y^29
 
 this is the prime number encryption decryption
 
-"full info asap"
-
 ---
+
+## method 2 = secreties!
 
 #### problem
 ```
