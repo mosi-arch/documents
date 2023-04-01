@@ -57,7 +57,7 @@ for more informatio, using this in "diffie hellman". in messaging purposes on no
 
 ---
 
-## zk-proof?
+## zk-proof of statement?
 ```
 ____________________________________________________
 n = random prime number, accept by two sides
