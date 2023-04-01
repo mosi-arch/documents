@@ -54,3 +54,14 @@ hash(b) like private key, hash(a) like a message or public key
 usecase: "ratchet message encryption"
 
 for more informatio, using this in "diffie hellman". in messaging purposes on not-blockchain applications just remember to "sync" and "deleting" message from the device. (look like End2End encryption)
+
+---
+
+## zk-proof?
+```
+____________________________________________________
+n = random prime number, accept by two sides
+alice = a	->	proof = g*(a|b) % n
+bob = b		->	proof = g*(a|b) % n
+____________________________________________________
+```
