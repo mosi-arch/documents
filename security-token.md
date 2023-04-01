@@ -86,4 +86,5 @@ This contract inherits from `ERC721`, which provides the standard functionality 
 
 ---
 
-at the end, the [erc-1450](https://eips.ethereum.org/EIPS/eip-1450) a big looser!
+at the end, the [erc-1450](https://eips.ethereum.org/EIPS/eip-1450) a big looser!\
+and [erc-1462](https://eips.ethereum.org/EIPS/eip-1462) using just for fractional token idea...
