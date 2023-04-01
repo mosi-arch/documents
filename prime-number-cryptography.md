@@ -48,3 +48,4 @@ __________________________________
 hash(a) -> xor -> - key -> hash(b)
 __________________________________
 ```
+hash(b) like private key, hash(a) like a message or public key
