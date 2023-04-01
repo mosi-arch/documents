@@ -57,7 +57,7 @@ for more informatio, using this in "diffie hellman". in messaging purposes on no
 
 ---
 
-## zk-proof of statement?
+## zk-proof of whisper statement?
 problem: how to accept "n"
 ```
 ____________________________________________________
