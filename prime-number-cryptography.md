@@ -51,4 +51,6 @@ __________________________________
 ```
 hash(b) like private key, hash(a) like a message or public key
 
-usecase: ratchet message encryption
+usecase: "ratchet message encryption"
+
+for more informatio, using this in "diffie hellman"
