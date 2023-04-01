@@ -66,7 +66,7 @@ alice = a	->	proof = g*(a|b) % n
 bob = b		->	proof = g*(a|b) % n
 ____________________________________________________
 ```
-answer: using "ratchet" solution but in/on hashed conversation
+answer: using "ratchet - hash(a)" solution but in/on hashed conversation
 ```
 ________________________________
 | n1        | n3               |
