@@ -10,7 +10,8 @@ c-> 6*12=72
 encryption: y = x^5
 decryption: x = y^29
 ```
-? clock gears up!
+? clock gears up!\
+72=12??? in positition are the same!
 
 this is the prime number encryption decryption
 
