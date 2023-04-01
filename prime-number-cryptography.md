@@ -17,6 +17,7 @@ this is the prime number encryption decryption
 ---
 
 ## method 2 = secreties!
+hash(a) generating by hash(b), and can decipher hash(b) by using revert function from hash(a)
 
 #### problem
 ```
