@@ -83,3 +83,7 @@ contract SecurityToken is ERC721 {
 ```
 
 This contract inherits from `ERC721`, which provides the standard functionality for non-fungible tokens. The contract includes a `Identification` struct to store information about the token's identification, and a mapping to keep track of which tokens have an identification. The `issueIdentification` function allows the owner of a token to issue an identification for it, and the `getIdentification` function allows anyone to retrieve the identification for a given token.
+
+---
+
+at the end, the [erc-1450](https://eips.ethereum.org/EIPS/eip-1450) a big looser!
