@@ -1,4 +1,4 @@
-## method 1 = clock
+## Method 1 = clock
 
 imagin a clock:\
 ? a clock 12 nums
@@ -17,7 +17,7 @@ this is the prime number encryption decryption
 
 ---
 
-## method 2 = secreties!
+## Method 2 = secreties!
 hash(a) generating by hash(b), and can decipher hash(b) by using revert function from hash(a)
 
 #### problem
