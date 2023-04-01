@@ -13,3 +13,36 @@ decryption: x = y^29
 this is the prime number encryption decryption
 
 "full info asap"
+
+---
+
+#### problem
+```
+___________________
+|hash(a) | hash(b)|
+___________________
+    ^         |
+    |  ____________
+	|<---| xor hash |
+	     ____________
+
+__________________________
+hash(a) -> xor -> hash(b)
+__________________________
+```
+
+#### solution (key = random prime number, two side accepted that)
+```
+___________________
+|hash(a) | hash(b)|
+___________________
+    ^         |
+	  |     |+ key |
+    |  ____________
+	|<---| xor hash |
+	     ____________
+
+__________________________________
+hash(a) -> xor -> - key -> hash(b)
+__________________________________
+```
