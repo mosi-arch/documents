@@ -74,3 +74,4 @@ ________________________________
 |       n4      |   n2         |
 ________________________________
 ```
+this conversation/convensition not like [Schrödinger's cat](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat) , and answer is O(1)=1 try.
