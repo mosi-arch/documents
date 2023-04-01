@@ -1,6 +1,7 @@
 # documents
 Documents "about my research" i made for social media, about blockchain & web3.\
-Notice: codes in theses documents are just for example and showcase purposes.
+Notice: codes in theses documents are just for example and showcase purposes.\
+Validation: some of these documents are under the proof of concept.
 
 ---
 
