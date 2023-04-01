@@ -53,4 +53,4 @@ hash(b) like private key, hash(a) like a message or public key
 
 usecase: "ratchet message encryption"
 
-for more informatio, using this in "diffie hellman". in messaging purposes on not-blockchain applications just remember to "sync" and "deleting" message from the device.
+for more informatio, using this in "diffie hellman". in messaging purposes on not-blockchain applications just remember to "sync" and "deleting" message from the device. (look like End2End encryption)
