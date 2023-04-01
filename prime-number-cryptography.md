@@ -9,8 +9,6 @@ encryption: y = x^5\
 decryption: x = y^29\
 ? clock gears up!
 
-----------------------------\
-this is the prime number encryption decryption\
-----------------------------
+this is the prime number encryption decryption
 
 "full info asap"
