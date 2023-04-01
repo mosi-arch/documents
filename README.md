@@ -23,6 +23,7 @@ There is just one rule, (no rule...)
 | Proof of Coverage | [here](https://github.com/mosi-arch/documents/blob/main/proof-of-coverage.md) |
 | Security token | [here](https://github.com/mosi-arch/documents/blob/main/security-token.md) |
 | Wordpress + Web3 | [here](https://github.com/mosi-arch/documents/blob/main/wordpress-web3-theme.md) |
+| Prime number cryptography | [here](https://github.com/mosi-arch/documents/blob/main/prime-number-cryptography.md) |
 
 ---
 For more information, following my linkedin posts & articles under the "activity section" at my [LinkedIn](https://www.linkedin.com/in/moslem-abbasi/) 
