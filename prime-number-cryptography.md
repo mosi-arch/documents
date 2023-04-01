@@ -1,8 +1,8 @@
 imagin a clock:\
 ? a clock 12 nums
 ```
-a-> 7-1=6\
-b-> 13-1=12\
+a-> 7-1=6
+b-> 13-1=12
 c-> 6*12=72
 
 encryption: y = x^5
