@@ -67,7 +67,9 @@ alice = a	->	proof = g*(a|b) % n
 bob = b		->	proof = g*(a|b) % n
 ____________________________________________________
 ```
-answer: using "ratchet - hash(a)" solution and in/on hashed conversation
+answer: using "ratchet - hash(a)" solution and in/on hashed conversation.
+- n = random number
+- g = generator area (where code publicly run, and "n" somewhere in the edge of this area)
 ```
 ________________________________
 | n1        | n3               |
