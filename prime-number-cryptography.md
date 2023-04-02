@@ -83,6 +83,8 @@ this conversation/convensition not like [Schrödinger's cat](https://en.wikipedi
 
 ---
 
+### I found this two good examples for LFSR around the web
+
 #### LFSR presentation
 ```py
 state = 0b1001
