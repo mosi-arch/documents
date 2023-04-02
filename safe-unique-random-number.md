@@ -2,7 +2,7 @@
 imagine the infinite number have many position not-iterate. how to use this number for generating random number?\
 guess number position, then pick the number on that position.\
 example: number 1\
-- - first position in array 3.1415.... is 0
+- first position in array 3.1415.... is 0
 - next position of 1 is 2
 - next position is 36
 - and next is 39
