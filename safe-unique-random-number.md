@@ -35,6 +35,7 @@ shuffle some random, choose 1 of them by the basic pattern and reveal the unique
 example: we generate 3 position of number 2,6&4. then choose position 0 || 1 || 2 for this 3 position and reveal the current position of that.\
 example pesudo code:
 ```
+input from the pi = 2,6,4
 2 = position x
 6 = position y
 4 = position z
