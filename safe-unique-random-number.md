@@ -41,7 +41,7 @@ example pesudo code:
 R = [x,y,z]
 A = random(R)
 // reveal A (example is x, position 0, value of real position is 5)
-output: "position 2 = x =>" random number is 5
+output: "position 0 is 2 = x =>" random number is 5
 ```
 
 ---
