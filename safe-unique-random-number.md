@@ -39,7 +39,7 @@ example pesudo code:
 4 = position z
 R = [x,y,z]
 A = random(R)
-reveal A (example is x, and real position of x)
+// reveal A (example is x, position 0, value of real position is 5)
 output: position 2 = x = 5
 ```
 
