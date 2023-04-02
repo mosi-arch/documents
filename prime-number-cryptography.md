@@ -110,5 +110,5 @@ For safe generating the random number by a hardware, you can use "Atari" transis
 
 ---
 
-#### Problem of sense data solved by using erlang
+#### Problem of sensetive data solved by using erlang
 #erlang for sensetive transaction have the better performance...
