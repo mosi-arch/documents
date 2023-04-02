@@ -86,7 +86,7 @@ this conversation/convensition not like [Schrödinger's cat](https://en.wikipedi
 #### LFSR presentation
 ```py
 state = 0b1001
-for i in range(20):
+for i in range(15):
 	print("{:04b}".format(state))
 	newbit = (state ^ (state >> 1)) & 1
 	state = (state >> 1) | (newbit << 3)
