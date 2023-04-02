@@ -30,5 +30,5 @@ at the end we have the unique pattern for generating magic number.
 
 ---
 
-i make this pattern and used this pattern many years ago in a lattary/bet platform by #erlang , but i make a unique algorithm to use.\
+i make this pattern and used this pattern many years ago in a lattary/bet platform by #erlang , but i make/made a unique algorithm to use.\
 i just reveal this pattern for fun in the github community of programmers. enjoy it! and remember to give me my "nobel prize" :)
