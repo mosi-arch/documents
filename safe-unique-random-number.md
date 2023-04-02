@@ -12,3 +12,16 @@ So we have(generated) random number by position of number **"1"**, and never ite
 ```
 Pi = 3.1415926535 8979323846 2643383279 5028841971 6939937510 5820974944 5923078164 0628620899 8628034825 3421170679 ...
 ```
+
+## now more complex equation:
+imagine you choosing the number "1"\
+position is 0, 1+0 = 1\
+next search for 1, position is 2, so 1+2=3\
+now search for 3 from the first position, is 8 position. 3+8 = 11, 11 is 1+1=2\
+now search for next position after the position of 3 (is 11), so there is two way:
+- 11 + 2 = 13, we search next position from 13 and the number is 9
+- or position 11 (1+1=2) search for next 2 from the position 11, we founded number is position 15 (number 2)
+
+now we can make our algorithm for searching and find next random number.
+
+at the end we have the unique pattern for generating magic number.
