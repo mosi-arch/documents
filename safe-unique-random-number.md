@@ -29,7 +29,7 @@ at the end we have the unique pattern for generating magic number.
 
 #
 
-#### only thing you need to create more complex equation is:\
+#### only thing you need to create more complex equation is:
 shuffle some random, choose 1 of them by the basic pattern and reveal the unique one of them !\
 example: we generate 3 position of number 2,6&4. then choose position 0 || 1 || 2 for this 3 position and reveal the current position of that.\
 example pesudo code:
