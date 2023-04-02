@@ -47,3 +47,8 @@ output: "position 2 = x =>" random number is 5
 
 i make this pattern and used this pattern many years ago in a lattary/bet platform by #erlang , but i make/made a unique algorithm to use.\
 i just reveal this pattern for fun in the github community of programmers. enjoy it! and remember to give me my "nobel prize" :)
+
+#
+
+#### an advice to the next generation of programmers:
+ai never can make the new creative algorithms from real neature. looking around the world, like earth & tree, stars and oceans. you can find a chaos algorithm of fractals and Pi number. the ai never can experiance this world like us! so be yourself and grow...
