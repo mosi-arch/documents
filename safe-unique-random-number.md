@@ -37,8 +37,10 @@ example pesudo code:
 2 = position x
 6 = position y
 4 = position z
-A = random(x,y,z)
+R = [x,y,z]
+A = random(R)
 reveal A (example is x, and real position of x)
+output: position 2 = x = 5
 ```
 
 ---
