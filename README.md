@@ -32,5 +32,5 @@ For more information, following my linkedin posts & articles under the "activity
 
 #
 
-An advice to the next generation of programmers:
+An advice to the next generation of programmers:\
 ai never can make the new creative algorithms from real nature. looking around the world, like earth & tree, stars and oceans. you can find a chaos algorithm of fractals and Pi number. the ai never can experience this world like us! so be yourself and grow...
