@@ -45,6 +45,7 @@ output: "position 2 = x =>" random number is 5
 
 ---
 
+#### behind history of this code
 i make this pattern and used this pattern many years ago in a lattary/bet platform by #erlang , but i make/made a unique algorithm to use.\
 i just reveal this pattern for fun in the github community of programmers. enjoy it! and remember to give me my "nobel prize" :)
 
