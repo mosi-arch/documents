@@ -55,3 +55,7 @@ i just reveal this pattern for fun in the github community of programmers. enjoy
 
 #### an advice to the next generation of programmers:
 ai never can make the new creative algorithms from real nature. looking around the world, like earth & tree, stars and oceans. you can find a chaos algorithm of fractals and Pi number. the ai never can experience this world like us! so be yourself and grow...
+
+---
+
+Download this article as a PDF -> [here](https://github.com/mosi-arch/documents/blob/main/Article%20on%20random%20numbers%20and%20pi%20algorithm.pdf) 
