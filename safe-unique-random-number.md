@@ -13,7 +13,7 @@ random number, these unique generated numbers...
 Pi = 3.1415926535 8979323846 2643383279 5028841971 6939937510 5820974944
 5923078164 0628620899 8628034825 3421170679 ...
 
-This equation always is : O(log n)
+This equation always is : **O(log n)**
 
 ## Now more complex equation:
 Imagine you choosing the number "1"\
@@ -25,10 +25,11 @@ A. 11 + 2 = 13, we search next position from 13 and the number is 9
 B. or position 11 (1+1=2) search for next 2 from the position 11, we founded number is position
 15 (number 2)
 
-Now we can make our algorithm for searching and find the next random 
+Now we can make our algorithm for searching and find the next random. 
 
 ## Only thing you need to create more complex equation is:
-Shuffle some random, choose 1 of them by the basic pattern and reveal the unique one of them!\
+Shuffle some random, choose 1 of them by the basic pattern and reveal the unique one of them!
+
 **Example**:\
 We generate 3 positions of number 2, 6 & 4. then choose position 0 || 1 || 2 for these 3 positions and reveal the current position of that.
 
