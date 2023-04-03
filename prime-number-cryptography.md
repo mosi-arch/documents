@@ -114,8 +114,8 @@ For safe generating the random number by a hardware, you can use "Atari" transis
 random prime number x times to random prime number y = unique number to generate public key as z\
 the true calculation is the length. so we use big numbers like 40 digits
 ```
-x = primeGeneratorRandom()
-y = primeGeneratorRandom()
+x = primeGeneratorRandom(48 digit)
+y = primeGeneratorRandom(52 digit)
 r = x * y
 z = hash(r)
 ```
