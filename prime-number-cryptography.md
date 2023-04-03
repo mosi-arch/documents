@@ -131,6 +131,8 @@ y = primeGeneratorRandom(52 digit)
 r = x * y
 z = hash(r)
 ```
+security details: rsa made by prime numbers lentgh must be 2^2048 to not cracking in this decade (2020 to 2030)\
+each 4 years we have X2 power for solving equetions!
 
 ---
 
