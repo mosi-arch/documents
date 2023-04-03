@@ -15,8 +15,6 @@ Pi = 3.1415926535 8979323846 2643383279 5028841971 6939937510 5820974944
 
 This equation always is : O(log n)
 
-#
-
 ## Now more complex equation:
 Imagine you choosing the number "1"\
 Position is 0, 1+0 = 1\
@@ -28,8 +26,6 @@ B. or position 11 (1+1=2) search for next 2 from the position 11, we founded num
 15 (number 2)
 
 Now we can make our algorithm for searching and find the next random 
-
-#
 
 ## Only thing you need to create more complex equation is:
 Shuffle some random, choose 1 of them by the basic pattern and reveal the unique one of them!\
