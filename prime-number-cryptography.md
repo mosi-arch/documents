@@ -163,10 +163,10 @@ const exportedPrivateKeyBuffer = privateKey.export({
 });
 // *********************************************************************
 function run(){
-	const keccak256hash1 = keccak256(exportedPublicKeyBuffer).toString("hex");
-	const keccak256hash2 = keccak256(exportedPrivateKeyBuffer).toString("hex");
-	fs.writeFileSync("publicHash.pem", "0x"+keccak256hash1, { encoding: "utf-8" });
-	fs.writeFileSync("privateHash.pem", "0x"+keccak256hash2, { encoding: "utf-8" });
+	const pubHash = keccak256(exportedPublicKeyBuffer).toString("hex");
+	const privHash = keccak256(exportedPrivateKeyBuffer).toString("hex");
+	fs.writeFileSync("publicHash.pem", "0x"+pubHash, { encoding: "utf-8" });
+	fs.writeFileSync("privateHash.pem", "0x"+privHash, { encoding: "utf-8" });
 }
 run();
 ```
