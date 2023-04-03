@@ -111,6 +111,8 @@ For safe generating the random number by a hardware, you can use "Atari" transis
 ---
 
 ## Method 4 = RSA-129
+R=rivest - S=shamir - A=Adleman ==> RSA build in 1977. base of zk-proof in 2019to2023(now is 2023).\
+to old algorithm and useless on blockchain industry, but popular, because noob(non-creative) engineers have big products!!!\
 random prime number x times to random prime number y = unique number to generate public key as z\
 the true calculation is the length. so we use big numbers like 40 digits
 ```
