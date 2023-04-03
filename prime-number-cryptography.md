@@ -143,7 +143,7 @@ note:
 ```node
 const crypto = require("crypto");
 const fs = require("fs");
-const keccak256 = require('keccak256'); 
+const keccak256 = require("keccak256"); 
 
 const { publicKey, privateKey } = crypto.generateKeyPairSync("rsa", {
   // The standard secure default length for RSA keys is 2048 bits
@@ -163,8 +163,8 @@ const exportedPrivateKeyBuffer = privateKey.export({
 });
 // *********************************************************************
 function run(){
-	const keccak256hash1 = keccak256(exportedPublicKeyBuffer).toString('hex');
-	const keccak256hash2 = keccak256(exportedPrivateKeyBuffer).toString('hex');
+	const keccak256hash1 = keccak256(exportedPublicKeyBuffer).toString("hex");
+	const keccak256hash2 = keccak256(exportedPrivateKeyBuffer).toString("hex");
 	fs.writeFileSync("publicHash.pem", "0x"+keccak256hash1, { encoding: "utf-8" });
 	fs.writeFileSync("privateHash.pem", "0x"+keccak256hash2, { encoding: "utf-8" });
 }
