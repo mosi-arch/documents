@@ -111,7 +111,7 @@ For safe generating the random number by a hardware, you can use "Atari" transis
 ---
 
 ## Method 4 = RSA-129
-R=rivest - S=shamir - A=Adleman ==> RSA build in 1977. base of zk-proof in 2019to2023(now is 2023).\
+R=rivest - S=shamir - A=Adleman ==> RSA build in 1977. basement of zk-proof in 2019to2023(now is 2023).\
 to old algorithm and useless on blockchain industry, but popular, because noob(non-creative) engineers have big products!!!
 
 #### My proof:
