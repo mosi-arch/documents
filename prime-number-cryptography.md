@@ -112,7 +112,17 @@ For safe generating the random number by a hardware, you can use "Atari" transis
 
 ## Method 4 = RSA-129
 R=rivest - S=shamir - A=Adleman ==> RSA build in 1977. base of zk-proof in 2019to2023(now is 2023).\
-to old algorithm and useless on blockchain industry, but popular, because noob(non-creative) engineers have big products!!!\
+to old algorithm and useless on blockchain industry, but popular, because noob(non-creative) engineers have big products!!!
+
+#### My proof:
+**bank problem**: you have big number as N (certificated you as an owner), you lock the N and the key owner is the bank (as T)\
+so your secure from fraud and scams, but the key owner not you!\
+everyone can have your N, but just bank can open that.\
+**owner property in blockchain**: for proofing the owner is you, need to know the nighbers proving you. in blockchain the key (T) is your private key. now why need proving you by the nighbers?\
+answer is the anonymously transaction.\
+but this type of solution is like a : **A donkey who is burdened with books and claims knowledge**
+
+#### psuedo code:
 random prime number x times to random prime number y = unique number to generate public key as z\
 the true calculation is the length. so we use big numbers like 40 digits
 ```
