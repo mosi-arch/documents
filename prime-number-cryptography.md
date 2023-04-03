@@ -150,13 +150,13 @@ const { publicKey, privateKey } = crypto.generateKeyPairSync("rsa", {
   modulusLength: 2048,
 });
 
-// public key and write it to file:
+// public key generator
 const exportedPublicKeyBuffer = publicKey.export({
   type: "pkcs1",
   format: "pem",
 });
 
-// To export the private key and write it to file
+// private key generator
 const exportedPrivateKeyBuffer = privateKey.export({
   type: "pkcs1",
   format: "pem",
