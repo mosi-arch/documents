@@ -50,6 +50,10 @@ I make this pattern and used this pattern many years ago in a lottery/bet platfo
 I just revealed this pattern for fun in the github community of programmers.\
 Enjoy it! and remember to give me my "**nobel prize**" :)
 
+#
+
+### An advice to the next generation of programmers:
+Ai never can make the new creative algorithms from real nature. Looking around the world, like earth & tree, stars and oceans. You can find a chaos algorithm of fractals and Pi numbers. Ai never can experience this world like us! **So be yourself and grow**...
 
 ---
 
