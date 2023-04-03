@@ -136,6 +136,39 @@ z = hash(r)
 security details: rsa made by prime numbers lentgh must be 2^2048 to not cracking in this decade (2020 to 2030)\
 each 4 years we have X2 power for solving equetions!
 
+### Example private and public key generator by using "RSA"
+note: first run `npm install` then copy code in below in `index.js`, then run this code by `node index.js`
+```node
+const crypto = require("crypto");
+const fs = require("fs");
+const keccak256 = require('keccak256'); 
+
+const { publicKey, privateKey } = crypto.generateKeyPairSync("rsa", {
+  // The standard secure default length for RSA keys is 2048 bits
+  modulusLength: 2048,
+});
+
+// public key and write it to file:
+const exportedPublicKeyBuffer = publicKey.export({
+  type: "pkcs1",
+  format: "pem",
+});
+
+// To export the private key and write it to file
+const exportedPrivateKeyBuffer = privateKey.export({
+  type: "pkcs1",
+  format: "pem",
+});
+// *********************************************************************
+function run(){
+	const keccak256hash1 = keccak256(exportedPublicKeyBuffer).toString('hex');
+	const keccak256hash2 = keccak256(exportedPrivateKeyBuffer).toString('hex');
+	fs.writeFileSync("publicHash.pem", "0x"+keccak256hash1, { encoding: "utf-8" });
+	fs.writeFileSync("privateHash.pem", "0x"+keccak256hash2, { encoding: "utf-8" });
+}
+run();
+```
+
 ---
 
 #### Problem of sensetive data solved by using erlang
