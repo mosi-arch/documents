@@ -140,7 +140,7 @@ each 4 years we have X2 power for solving equetions!
 note: 
 - first run `npm install` then copy code in below in `index.js`, then run this code by `node index.js`
 - after finish, four files generating in the same folder, 
-- - hash: `privateHash.pem` & `publicHash.pem`
+- - hash: `privateHash.pem` & `publicHash.pem` "dont use in final project"
 - - rsa: `privateRsa.pem` & `publicRsa.pem`
 ```node
 const crypto = require("crypto");
