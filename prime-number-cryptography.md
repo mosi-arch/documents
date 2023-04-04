@@ -139,7 +139,7 @@ each 4 years we have X2 power for solving equetions!
 ### Example private and public key generator by using "RSA"
 note: 
 - first run `npm install` then copy code in below in `index.js`, then run this code by `node index.js`
-- after finish, two files generating in the same folder, 
+- after finish, four files generating in the same folder, 
 - - hash: `privateHash.pem` & `publicHash.pem`
 - - rsa: `privateRsa.pem` & `publicRsa.pem`
 ```node
