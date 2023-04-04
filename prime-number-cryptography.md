@@ -169,8 +169,8 @@ function run(){
 	fs.writeFileSync("privateHash.pem", "0x"+privHash, { encoding: "utf-8" });
 	const pubRsa = exportedPublicKeyBuffer.toString("hex");
 	const privRsa = exportedPrivateKeyBuffer.toString("hex");
-	fs.writeFileSync("publicRsa.pem", "0x"+pubRsa, { encoding: "utf-8" });
-	fs.writeFileSync("privateRsa.pem", "0x"+privRsa, { encoding: "utf-8" });
+	fs.writeFileSync("publicRsa.pem", pubRsa, { encoding: "utf-8" });
+	fs.writeFileSync("privateRsa.pem", privRsa, { encoding: "utf-8" });
 }
 run();
 ```
