@@ -1,6 +1,6 @@
-formula asap
-بازارساز خودکار
-AMM -> Automated Market Maker
+formula asap\
+بازارساز خودکار\
+AMM -> Automated Market Maker\
 ```
 x * y = k
 k -> always constant
@@ -17,18 +17,18 @@ y -> token b
 - Market maker with fixed totals
 - - Constant summary with market maker (CSMM)
 
-بازارسازان با میانگین ثابت
-Constant manage with market maker
+بازارسازان با میانگین ثابت\
+Constant manage with market maker\
 CMMM -> There is no exchange fee
 
-بازارسازان با عملکرد ثابت
-Constant function market maker
+بازارسازان با عملکرد ثابت\
+Constant function market maker\
 CFMM -> Use on secondary markets & arbitrage
 
-بازارسازان با محصول ثابت
-Market maker with a fixed product
+بازارسازان با محصول ثابت\
+Market maker with a fixed product\
 CPMM -> "k" incressing by dex (The exchange fee is added to the storage pool)
 
-بازارسازان با مجموع ثابت
-Market maker with fixed totals
+بازارسازان با مجموع ثابت\
+Market maker with fixed totals\
 CSMM -> Not good for dex strategies. Arbitrageurs can empty the reserve pool
