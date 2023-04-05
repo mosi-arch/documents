@@ -28,6 +28,7 @@ A = alice b^primeNumX
 B = bob a^primeNumX
 A === B
 ```
+this equition safe by e^N mod n
 
 ---
 
