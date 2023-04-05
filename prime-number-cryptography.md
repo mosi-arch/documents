@@ -15,6 +15,20 @@ decryption: x = y^29
 
 this is the prime number encryption decryption
 
+example pseudo
+- p & q random prime numbers generated in custom hour --> exam: alice clock by 13, bob clock by 17
+- - a=p^13
+- - b=q^17
+- - A=b^13 && B=a^17 == same number
+```
+a = alice p^primeNumX
+b = bob q^primeNumY
+a send to bob <--> b send to alice
+A = alice b^primeNumX
+B = bob a^primeNumX
+A === B
+```
+
 ---
 
 ## Method 2 = secreties!
