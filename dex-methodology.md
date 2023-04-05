@@ -10,14 +10,14 @@ x -> token a
 y -> token b
 ```
 
-- **Market maker with constant averages**
-- - Constant manage with market maker (CMMM)
-- **Market maker with consistent performance**
-- - Constant function market maker (CFMM)
-- **Market maker with a fixed product**
-- - Constant product with market maker (CPMM)
-- **Market maker with fixed totals**
-- - Constant summary with market maker (CSMM)
+- **Market maker with constant averages**\
+Constant manage with market maker (**CMMM**)
+- **Market maker with consistent performance**\
+Constant function market maker (**CFMM**)
+- **Market maker with a fixed product**\
+Constant product with market maker (**CPMM**)
+- **Market maker with fixed totals**\
+Constant summary with market maker (**CSMM**)
 
 #
 
