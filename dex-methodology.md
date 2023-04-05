@@ -22,16 +22,16 @@ Constant summary with market maker (**CSMM**)
 #
 
 - **Constant manage with market maker**\
-CMMM -> There is no exchange fee
+*CMMM* -> There is no exchange fee
 
 - **Constant function market maker**\
-CFMM -> Use on secondary markets & arbitrage
+*CFMM* -> Use on secondary markets & arbitrage
 
 - **Market maker with a fixed product**\
-CPMM -> "k" incressing by dex (The exchange fee is added to the storage pool)
+*CPMM* -> "k" incressing by dex (The exchange fee is added to the storage pool)
 
 - **Market maker with fixed totals**\
-CSMM -> Not good for dex strategies. Arbitrageurs can empty the reserve pool
+*CSMM* -> Not good for dex strategies. Arbitrageurs can empty the reserve pool
 
 ---
 
