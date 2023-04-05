@@ -26,6 +26,7 @@ There is just one rule, (no rule...)
 | Wordpress + Web3 | [here](https://github.com/mosi-arch/documents/blob/main/wordpress-web3-theme.md) |
 | Prime number cryptography | [here](https://github.com/mosi-arch/documents/blob/main/prime-number-cryptography.md) |
 | Mathematical unique random number | [here](https://github.com/mosi-arch/documents/blob/main/safe-unique-random-number.md) &reg; |
+| Dex Methodology-concept | [here](https://github.com/mosi-arch/documents/blob/main/dex-methodology.md) |
 
 ---
 For more information, following my linkedin posts & articles under the "activity section" at my [LinkedIn](https://www.linkedin.com/in/moslem-abbasi/) 
