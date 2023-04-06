@@ -25,6 +25,7 @@ Constant summary with market maker (**CSMM**)\
 
 #
 
+## Farsi:
 بازارساز خودکار\
 بازارسازان با میانگین ثابت\
 بازارسازان با عملکرد ثابت\
