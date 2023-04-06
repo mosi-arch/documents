@@ -34,4 +34,4 @@ Now you can choose two random position and times that two numbers for generating
 for more information read [this](https://github.com/mosi-arch/documents/blob/main/prime-number-cryptography.md) and [this](https://github.com/mosi-arch/documents/blob/main/safe-unique-random-number.md)
 
 ### note
-The fractal each times create from random point of the "plane", so each time unique random drawing.
+The fractal each times create from random point of the "plate", so each time unique random drawing.
