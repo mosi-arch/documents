@@ -35,7 +35,8 @@ for more information read [this](https://github.com/mosi-arch/documents/blob/mai
 
 This equation make 2-dimensional shape on plate. in some cases we use sequence of fibonacci (golden ratio), but that equation have a problem: n+1/2n^2 . wasting time!\
 So we use the fractal equations and fix time problem for creating randomness.\
-in some cases we create our shape and move the plate of prime numbers for generating randomness method.
+in some cases we create our shape and move the plate of prime numbers for generating randomness method.\
+for example: [this fingerprint indexing system](https://github.com/f-fq-academic/finger-print-revelution-studio/tree/master) you need just add a created {Moore} fractal and use that on "minutia" for search equation on database. the answer is true+id or false, because "ALWAYS" we find true fingerprint. actually we moving the plate of fractal on fingerprints...
 
 ### note
 The fractal each times create from random point of the "plate", so each time unique random drawing.
