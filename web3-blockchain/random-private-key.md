@@ -1,6 +1,5 @@
 # generate private key, blind method 
 how to generate private key for make public key and wallet address.\
-
 example psuedo code:
 ```
 p = random()
