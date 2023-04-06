@@ -28,4 +28,4 @@ address = 0x9060e832a21c1b04dca33ebf8b827504bb0000fe
 ```
 
 this private key work & generate the address on this code, but not add to your wallet.\
-disclaimer: don not using this example private key on your product.
+disclaimer: do not using this example private key on your product.
