@@ -3,6 +3,7 @@ formula asap
 ---
 
 **AMM** -> Automated Market Maker
+- notice: in central-financial market, automation different by dex-gen2. because dex-gen2 using "pool" for creating the volue/volum.
 ```
 x * y = k
 k -> always constant
