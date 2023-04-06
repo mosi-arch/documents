@@ -27,6 +27,7 @@ There is just one rule, (no rule...)
 | Prime number cryptography | [here](https://github.com/mosi-arch/documents/blob/main/prime-number-cryptography.md) |
 | Mathematical unique random number | [here](https://github.com/mosi-arch/documents/blob/main/safe-unique-random-number.md) &reg; |
 | Dex Methodology-concept | [here](https://github.com/mosi-arch/documents/blob/main/dex-methodology.md) |
+| Random Generator by using Fractals | [here](https://github.com/mosi-arch/documents/blob/main/random-chaos-random-matrix.md) &reg; | 
 
 ---
 For more information, following my linkedin posts & articles under the "activity section" at my [LinkedIn](https://www.linkedin.com/in/moslem-abbasi/) 
