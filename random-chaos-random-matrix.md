@@ -25,6 +25,7 @@ void curve(unsigned order, double length, int angle)
         curve(order - 1, length / 2, -angle);
     }
 }
+// credit for sierpinski code: https://en.wikipedia.org/wiki/Sierpi%C5%84ski_curve
 ```
 in this example we draw a "sierpinski" fractal by simple equation.\
 imagin the "dot's" without the lines. before that you drawing this shape(dot's) on a page and have coordination of all point.\
