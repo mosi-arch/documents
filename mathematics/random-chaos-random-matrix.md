@@ -33,5 +33,9 @@ Each point have a (x, y) as position, and on that position you have a unique "pr
 Now you can choose two random position and times that two numbers for generating a unique RSA...\
 for more information read [this](https://github.com/mosi-arch/documents/blob/main/prime-number-cryptography.md) and [this](https://github.com/mosi-arch/documents/blob/main/safe-unique-random-number.md)
 
+This equation make 2-dimensional shape on plate. in some cases we use sequence of fibonacci (golden ratio), but that equation have a problem: n+1/2n^2 . wasting time!\
+So we use the fractal equations and fix time problem for creating randomness.\
+in some cases we create our shape and move the plate of prime numbers for generating randomness method.
+
 ### note
 The fractal each times create from random point of the "plate", so each time unique random drawing.
