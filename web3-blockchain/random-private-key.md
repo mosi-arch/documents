@@ -60,3 +60,5 @@ s10 = r10 % r20
 h4 = hash(s10) // 0xebe5ad1b5fc5491a177f1270b784df723b033ef508606c10aa1528d31376be05
 // use h4 is/as private key
 ```
+
+another disclaimer: this document have purpose to learn developers nice things about blockchain!
