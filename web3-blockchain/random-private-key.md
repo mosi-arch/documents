@@ -49,7 +49,7 @@ s1 = r1 * r2
 s2 = r1 % r2
 s3 = s1 % s2
 h2 = hash(s3) // 0x82fefdfa979f63867aeff0e17967557b9a65473fb8afeaa43699c678592486aa
-// use h is/as private key
+// use h2 is/as private key
 
 //-----------------
 /* method 2 */
