@@ -36,10 +36,14 @@ example 2 & 3
 ```js
 h1 = hash() // 0x96ee4fda279de09402bddb98502e5638562fcc4cf5385935810c437fc2ce3f8c
 // use hash is/as private key
+
 // prv - pub - address
-prv = h1.private // 0x96ee4fda279de09402bddb98502e5638562fcc4cf5385935810c437fc2ce3f8c
-pub = h1.public // 0xb5a386eb2b58d1a66a1aad3beca6e139e87075d567dbfb67640a9c7e6abafbd99c9013a7b06d3a84bf1bb6aef1f9bed9c19824873029d953928fa8202d9bb03c
-addr = h1.address // 0x9060e832a21c1b04dca33ebf8b827504bb0000fe
+prv = h1.private 
+// 0x96ee4fda279de09402bddb98502e5638562fcc4cf5385935810c437fc2ce3f8c
+pub = h1.public 
+// 0xb5a386eb2b58d1a66a1aad3beca6e139e87075d567dbfb67640a9c7e6abafbd99c9013a7b06d3a84bf1bb6aef1f9bed9c19824873029d953928fa8202d9bb03c
+addr = h1.address 
+// 0x9060e832a21c1b04dca33ebf8b827504bb0000fe
 
 //-----------------
 /* method 1 */
